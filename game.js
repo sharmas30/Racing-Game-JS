@@ -7,7 +7,7 @@ document.addEventListener('keydown', keyDown);
 document.addEventListener('keyup', keyUp);
 
 player = {
-    speed: 7,
+    speed: 5,
     score: 0,
 };
 keys = {
